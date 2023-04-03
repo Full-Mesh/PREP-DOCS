@@ -31,3 +31,5 @@ Justin Harrington
 [Project: Prep #4](https://docs.google.com/document/d/1Kjd-lI70HkIQaT4kwTUBEeCZQ1czfDvWgnsHCeD-nK8/edit#heading=h.u91j6s589twp)
 
 [Trello Project Management: Full Mesh](https://trello.com/b/q0faeU5A/301-project)
+
+[Presentation Slideshow](https://docs.google.com/presentation/d/1249-Y4g5prxLrqhlrhvfa0yF3F6O_Km-AzdQ2GV6Oyk/edit#slide=id.g2accd1c413_3_31)
