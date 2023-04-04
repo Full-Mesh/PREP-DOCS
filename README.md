@@ -1,4 +1,4 @@
-This is a collection of our prep work for FULL MESH.
+## This is a collection of our prep work for FULL MESH.
 
 
 - [Project: Prep #1](https://docs.google.com/document/d/15LXbwPcwQfEpYzZbxL75FPRPdLBhihmOMar_5u8xH38/edit#heading=h.gz27gxc3yecm)
