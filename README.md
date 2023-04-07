@@ -1,13 +1,13 @@
 ## This is a collection of our prep work for FULL MESH.
 
 
-- [Project: Prep #1](https://docs.google.com/document/d/15LXbwPcwQfEpYzZbxL75FPRPdLBhihmOMar_5u8xH38/edit#heading=h.gz27gxc3yecm)
+- [Project: Prep #1](https://github.com/Full-Mesh/PREP-DOCS/blob/main/P1%20Ops-301-d6%20%231_%20Team%20Agreement.pdf)
 
-- [Project: Prep #2](https://docs.google.com/document/d/1-2dFZwdTDW2a39tVT8OGgh_LS4WjeOuxpYmF0yCeA8o/edit#heading=h.riuzoh8rm7by)
+- [Project: Prep #2](https://github.com/Full-Mesh/PREP-DOCS/blob/main/P2%20Ops%20301-d6%20%231_%20Project%20Prep%202%20System%20Selection.pdf)
 
-- [Project: Prep #3](https://docs.google.com/document/d/1G5M6hvOqzZzmyBVy5QreV2Rp7iFSIKUcHBEtwVsp7Lo/edit#heading=h.ff4wlt3hpgcr)
+- [Project: Prep #3](https://github.com/Full-Mesh/PREP-DOCS/blob/main/P3%20Ops%20301-d6%20_%20GitHub%20and%20PM.pdf)
 
-- [Project: Prep #4](https://docs.google.com/document/d/1Kjd-lI70HkIQaT4kwTUBEeCZQ1czfDvWgnsHCeD-nK8/edit#heading=h.u91j6s589twp)
+- [Project: Prep #4](https://github.com/Full-Mesh/PREP-DOCS/blob/main/P4%20Ops%20301-d6%20Map%20Project%20Requirements.pdf)
 
 - [Trello Project Management: Full Mesh](https://trello.com/b/q0faeU5A/301-project)
 
