@@ -11,4 +11,4 @@
 
 - [Trello Project Management: Full Mesh](https://trello.com/b/q0faeU5A/301-project)
 
-- [Presentation Slideshow](https://docs.google.com/presentation/d/1249-Y4g5prxLrqhlrhvfa0yF3F6O_Km-AzdQ2GV6Oyk/edit#slide=id.g2accd1c413_3_31)
+- [Presentation Slideshow](https://github.com/Full-Mesh/PREP-DOCS/blob/main/Presentation%20Slide%20Deck.pdf)
